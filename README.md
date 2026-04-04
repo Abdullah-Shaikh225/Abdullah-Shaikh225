@@ -18,7 +18,7 @@
 - 🏆 Diploma in IT from M.H. Saboo Siddik Polytechnique with **85% (First Class Distinction)**
 - 🌱 Currently working on **AI-driven platforms** and **Full Stack Web Applications**
 - 💬 Ask me about **React, Node.js, Python, MongoDB, and AI Development**
-- 📫 Reach me at **your.email@example.com**
+- 📫 Reach me at **abdullahictmail@gmail.com**
 - ⚡ Fun fact: I build AI-powered platforms that help students make smarter career decisions!
 
 ---
