@@ -84,10 +84,8 @@ I'm a final-year Computer Engineering student (Mumbai University, CGPA 8.20) who
 ### 🧩 LeetCode Progress
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Abdullah-shaikh225?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/Abdullahshaikh225?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
 </p>
-
-> Replace `Abdullah-shaikh225` above with your actual LeetCode username if it's different — I used your GitHub handle as a placeholder.
 
 ---
 
